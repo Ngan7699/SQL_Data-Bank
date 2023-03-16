@@ -1,6 +1,6 @@
 # SQL_Data-Bank
 ## Case Study #4: Data Bank
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
 
 ## 📚 Table of Contents
@@ -24,25 +24,25 @@ The management team at Data Bank want to increase their total customer base - bu
 This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
 ## Entity Relationship Diagram
-
+<p align="center">
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/81607668/130343339-8c9ff915-c88c-4942-9175-9999da78542c.png">
 
 **Table 1: Regions**
 
 This regions table contains the region_id and their respective region_name values.
-
+<p align="center">
 <img width="176" alt="image" src="https://user-images.githubusercontent.com/81607668/130551759-28cb434f-5cae-4832-a35f-0e2ce14c8811.png">
 
 **Table 2: Customer Nodes**
 
 Customers are randomly distributed across the nodes according to their region. This random distribution changes frequently to reduce the risk of hackers getting into Data Bank’s system and stealing customer’s money and data!
-
+<p align="center">
 <img width="412" alt="image" src="https://user-images.githubusercontent.com/81607668/130551806-90a22446-4133-45b5-927c-b5dd918f1fa5.png">
 
 **Table 3: Customer Transactions**
 
 This table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
-
+<p align="center">
 <img width="343" alt="image" src="https://user-images.githubusercontent.com/81607668/130551879-2d6dfc1f-bb74-4ef0-aed6-42c831281760.png">
 
 ***
