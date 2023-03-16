@@ -1,4 +1,4 @@
-## :technologist::woman_technologist: Case Study #4: Data Bank - Customer Nodes Exploration
+# :woman_technologist: Data Bank - Customer Nodes Exploration
 
 ## Case Study Questions
 
