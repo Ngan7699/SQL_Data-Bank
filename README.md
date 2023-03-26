@@ -61,7 +61,7 @@ View my solution [here](https://github.com/Ngan7699/SQL_Data-Bank/blob/main/A.%2
 
 ### B. Customer Transactions
 
-View my solution [here].
+View my solution [here](https://github.com/Ngan7699/SQL_Data-Bank/blob/main/B.%20Customer%20Transactions.md).
   
 1. What is the unique count and total amount for each transaction type?
 2. What is the average total historical deposit counts and amounts for all customers?
